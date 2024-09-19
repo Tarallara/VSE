@@ -19,4 +19,5 @@ Desing proces
 
 Desing proces 
     proč - záčít nízko, náklady na změnu rostou.
-        - aka udělat po krocích, lepší zjistit že to funguje, než abych zahodila hodiny práce a byla to kokotina   
+        - aka udělat po krocích, lepší zjistit že to funguje, než abych zahodila hodiny práce a byla to kokotina
+   
