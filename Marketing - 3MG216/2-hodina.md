@@ -24,6 +24,15 @@ Kviz
     - jidlo - proste popcorn s kina je lepsi
     - reklamy
 
+    - jak se dostanes domu
+    - cena
+    - letni kyno, historicka kina "lokalni"
+    - podle volnych mist
+    - cas promitani
+    - Dolbiatmos, imax
+    - 4D.....
+
+
 <h3>rozhodovaci proces u vyznamnejsich nakupu</h3>
 -rozpoznani potreb
   - hledani infomaci
@@ -32,3 +41,5 @@ Kviz
         - nakup 
           - ponakupni chovani
 
+
+OTAZKY PRECIST / VYPRACOVAT
