@@ -1,4 +1,5 @@
 <h1>E-knihovna pro studenty</h1>
+
 Jako náš návrh pro školní projekt jsme si zvolili E-knihovnu na učebnice, či jiné studijní
 materiály pro studenty vysokých škol. 
 
@@ -18,3 +19,20 @@ přímo na školách, kde bychom nejspíš po domluvě s vedením, předali zpr�
 letáků, či obrázků QR kódu, který by odkazoval na sociální sítě a přímo na aplikaci.
 
 Existuje spoustu portalu, kde se ucebnice preprodavaji, knihobit, vinted,facebook atd. ale neni zadna konkretni platforma primo pro ucebnice
+
+Vedouci - Ondra Pazdera
+a spol
+
+Cil - Jako náš návrh pro školní projekt jsme si zvolili E-knihovnu na učebnice, či jiné studijní
+materiály pro studenty vysokých škol. 
+
+cilova skupina - studenti - budouci, minuly, stavajici, ucitele 
+
+hodnota pro zakaznika - jednotny system pro ucebnice, neni tam zadna treti strana.
+
+konkurence - knihobot, facebook, vinte, instagram starna, velke retezce (drahe), antikvariat 
+
+propagace - socialni site, skolni nastenky, skolni stranky
+
+reklama, 
+
