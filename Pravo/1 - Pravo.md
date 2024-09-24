@@ -43,4 +43,4 @@
     -Nařízení - obecně závazná, účinek vnotrostátní
     -Směrnice - závazné, pouze do výsledku, kterého má nýt dosaženo, převádí se
     -Rozhodnutí - závazné pouze pro toho, komu je určen
-    -Doporučení a stanoviska - nezávazné + rosedky Evropského soudního dvora
+    -Doporučení a stanoviska - nezávazné + rosedky Evropského soudního dvora1
