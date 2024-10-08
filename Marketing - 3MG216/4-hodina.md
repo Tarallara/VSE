@@ -41,3 +41,7 @@ kvantitativní - kolik
          Záznamy operní scény Metropolitní opery a milánské La Scaly začnou příští měsíc nově nabízet i obě klubová kina. Dozvěděli jste se, 
            že o přímém přenosu z La Scaly a Metropolitní uvažuje také vedení jednoho z multikin.
         
+    <h3>klic problem </h3>
+        - jidlo v sale
+        - marketing - propagace, socilani sizte atd, mame granty
+        - promitani novych filmu
