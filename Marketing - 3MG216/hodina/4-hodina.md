@@ -44,4 +44,7 @@ kvantitativní - kolik
     <h3>klic problem </h3>
         - jidlo v sale
         - marketing - propagace, socilani sizte atd, mame granty
-        - promitani novych filmu
+        - promitani novych filmu 
+    
+    <h3>marketingove cile</h3>
+        SMART
