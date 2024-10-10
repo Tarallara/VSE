@@ -73,3 +73,32 @@
         - příležitosti použítí
         - loajalita
         - uživatelský status
+        - podel připravenosti k nákupu -> koupím něco a pak mi chodí neustále reklamy = sušenky
+        - podle míry užití
+        paretův zákon 20/80 "soustředit se na to podstatné"
+            80% zákazníků jsou důležití
+
+        RFM alanlýza 
+            - recency
+            - frequent
+            - money
+
+        klíčový výzkum databáze "nervová databáze"
+
+<h3>jak k segmentaci přistoupit</h3>
+    KOTLER - segmentace trhu soli podle barvy vlasů
+                nemůžeme k segmentaci přistupovat echanicky
+
+    - jáké kritérium zvolit
+    -výzkumná agentura
+    -sami
+        -internet databáze-dle konkurence
+        - pozorování
+    
+    <h2>Princip Segmentace</h2>
+        - interní homogenní segmentace
+        - externí heterodenní segmentace
+            
+    v realitě nepoužíváme jen jednu segmentace, ale KOMBINACI
+    
+            
