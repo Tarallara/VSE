@@ -1,4 +1,4 @@
-<h1>Determinanty</h1>
+
 
 <h2>V1 existuje a jednoznacnosti incerzni matice </h2>
     a je regularni <=> existuje A^-1 a je urcena jednoznacne
@@ -35,3 +35,20 @@ pozn. použití malých písmenek x, b pro matice
     Př. pomocí matice řešte soustavu    
         2x^1 + 5x^2 = 7
         x^1 + 3x^2 = 5 
+
+<h1>Determinanty</h1>
+    - jemon pro čtvercové matice
+
+    def- determinant čtvercové matice A |aij| řádu n roz. reálné číslo jednoznačně přiřazené této matici a značíme jej det A, 
+        res. |A| hodnotu det A definujeme v závislosti na n takto:
+
+        (i) n = 1   det |a11|
+        (ii)  |a11, a12|
+              |a21, a22|      a11 a22 - a12 a21
+
+<h3>Veta - Laplace - o rozvoji determinantu (del i-tého řádku)</h3>
+    je-li A |aij| čtvercová matice řádku n, pak pro i = 1,2,....,n platá
+    det A = (-1)^i+1 ai1 Mi1 + (-1)^i+2 ai2 Mi2 .........
+    kde Mij je determinant matice, kter8 vznikne z matice A vynech8me i-tého řádkuy jeho sloupce
+    
+    pozn. Mij - tvz. subdeterminant - řad o 1 menší než det A
